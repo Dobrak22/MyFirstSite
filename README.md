@@ -1,0 +1,1 @@
+Greetings to all who are watching, a project for an Online Electronics Store will be done before your eyes. First, I will make an approximate appearance of the site in Adobe XD, and I will also upload everything to the repository. If you want to suggest something or help, then write to Discord: Dobrak22#9406 .
