@@ -1,3 +1,36 @@
-h1{
-  color:blue;
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: black;
+  color: white;
+}
+header{
+  display: flex;
+  justify-content: center;
+}
+.Logo, .MenuUp{
+  display: inline-block;
+  vertical-align: middle;
+}
+.MenuUp, li{
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 25px;
+}
+.MenuUp,a {
+  font-family: arial;
+  font-size:  20px;
+  color:white;
+  vertical-align: middle;
+  text-decoration: none;
+
+}
+.Logo, h1{
+  font-family: arial;
+  font-size: 30px;
+  vertical-align: middle;
+  color: white;
+  margin-right: 570px;
 }
